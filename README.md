@@ -43,16 +43,6 @@
 
 ---
 
-### 配套工具
-
-| 类型 | 描述 | 链接 |
-| :--- | :--- | :--- |
-|  **优选工具** | 根据自己的网络环境选择最适合的IP | https://github.com/byJoey/yx-tools/releases |
-|  **文字教程** | 详细的部署与使用说明博客文章 | [https://joeyblog.net/yuanchuang/1146.html](https://joeyblog.net/yuanchuang/1146.html) |
-|  **Workers视频教程** | 直观的操作演示和功能讲解 | https://www.youtube.com/watch?v=aYzTr8FafN4 |
-|  **Pages视频教程** | 直观的操作演示和功能讲解 | https://www.youtube.com/watch?v=JhVxJChDL-E |
-|  **Snippets视频教程** | 直观的操作演示和功能讲解 | https://www.youtube.com/watch?v=xeFeH3Akcu8 |
-
 ### 部署
 
 加入了千呼万唤的订阅每15分钟自动优选一次
